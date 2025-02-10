@@ -16,27 +16,40 @@ The project follows a structured approach:
 
 1. Initial Revenue Analysis Dashboard: A basic dashboard was created to analyze revenue trends across different markets.
 
-2. Stakeholder Feedback & Revisions: Based on feedback, modifications were made to emphasize key areas of interest.
+2. Stakeholder Feedback & Revisions: Based on feedback from other students (stakeholders), modifications were made to emphasize key areas of interest.
 
 3. Profit Analysis Dashboard: A refined dashboard was created to focus on profit trends and margins across various dimensions.
 
 ## Dashboards
 
-Revenue Analysis Dashboard
+**Revenue Analysis Dashboard**
 
-- Visualizes revenue trends by market and sales quantity.
+The Revenue Analysis Dashboard was designed based on the initial stakeholder requirements. It provides key insights into revenue trends, sales performance, and top contributors, with all monetary values in INR.
 
-- Shows top customers and products contributing to revenue.
+- Revenue Trends: Visualizes revenue by market and tracks fluctuations over time.
 
-- Tracks revenue over time.
+- Sales Performance: Highlights sales quantity across different markets.
 
-Profit Analysis Dashboard
+- Top Contributors: Identifies the top 5 customers and products driving revenue.
 
-- Highlights total profit and profit margins across different markets.
+- Interactivity: Allows users to **filter data** by year or month, dynamically updating insights to reflect business performance.
 
-- Analyzes profit trends quarterly.
+![Revenue Analysis Dashboard](RevenueAnalysisDashboard.png)
 
-- Compares profit contributions by customer type and individual customers.
+
+**Profit Analysis Dashboard**
+
+The Profit Analysis Dashboard is an enhanced version of the initial Revenue Analysis Dashboard, refined based on stakeholder feedback to emphasize profitability. It provides a deeper understanding of profit distribution, trends, and key contributors.
+
+- Profit Overview: Displays total profit and profit margins across different markets.
+
+- Trend Analysis: Tracks quarterly profit trends to identify growth patterns.
+
+- Key Contributors: Compares profit contributions by customer type and individual customers.
+
+- Interactivity: Allows users to filter data, offering insights tailored to a specific month or year.
+
+![Profit Analysis Dashboard](ProfitAnalysisDashboard.png)
 
 ## Files
 
